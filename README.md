@@ -11,9 +11,3 @@
     </p>
 </div>
 
-<div>
-  <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrojaez&card_width=480&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
-    </p>
-</div>
-
